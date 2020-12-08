@@ -1,13 +1,206 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.navbar_bar{
+    margin: 0%;  
+   
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+
+.card1{
+    width: 350px;
+    margin-left: 30%;
+
 }
+.nik_info{
+    width: 300px; 
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.nik_img{
+    width: 250px; 
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+h2{
+    margin-top: 20%;
+    font-size: 30px;
+}
+h3{
+    font-size: 27px;
+
+
+}
+h4{
+    font-size: 25px;
+
+}
+strong{
+    color: black;
+}
+.foot{
+    margin-top: 200px;
+    margin-bottom:50px ;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 12px;
+   
+
+    
+        }
+        
+
+        .navbar_bar{
+            font-size: 17px;
+            font-weight: 600;
+          
+            
+        }
+        .act{
+            border-bottom: 1px solid rgb(250, 214, 8) ;
+            color:rgb(0, 0, 0);
+        }
+      
+        .mama{
+            padding-right: 10px;
+            color: rgb(0, 0, 0);
+        }
+         .mam{
+             padding-right: 10px;
+             color: rgb(0, 0, 0);
+         }
+        
+         .ma{
+             padding-right: 10px;
+             color: rgba(0, 0, 0);
+         }
+         .face{
+            padding-right: 10px;
+             color: rgba(0, 0, 0);
+         }
+         .para{
+             margin-top: 17%;
+             font-size: 15px;
+             color: rgba(0, 0, 0, 0.878);
+         }
+         strong5{
+             font-size: 20px;
+             font-weight: 700;
+             color: black;
+             
+         }
+         .head5{
+            text-align: center;
+            justify-content: center;
+            display: flex;
+            align-items: center; 
+         }
+         p5{
+             color: rgb(119, 12, 12);
+             font-size: 12px;
+         }
+         .pap{
+            text-align: center;
+            font-size: 18px;
+            margin-top: 20px;
+
+        }
+        .skill_head{
+            text-align: center;
+            justify-content: center;
+            display: flex;
+            align-items: center; 
+            font-size: 25px;
+        }
+        strong6{color:  #fa3e3e;
+        font-size: 16px;
+    font-weight: 600;}
+    .skill_img{
+        text-align: center;
+        justify-content: center;
+        display: flex;
+        align-items: center; 
+        color: rgba(0, 0, 0, 0.76);
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-top: 4%;
+    }.skill_image{
+        text-align: center;
+        justify-content: center;
+        display: flex;
+        align-items: center; 
+    padding-top: 20px;
+    padding-bottom: 40px;
+    margin-bottom: 5%;
+    }
+    .react_img{
+margin-right: 3%;    }
+    .html_img{
+        margin-right: 3%;    
+
+    }.css_img{
+        margin-right: 3%;    
+
+    }.js_img{
+        margin-right: 3%;    
+
+    }.bootstrap_img{
+        margin-right: 3%;    
+
+    }.firebase_img{
+        margin-right: 3%;    
+
+    }
+    .project{
+        text-align: center;
+        color: black;
+        
+    }
+    strong3{
+        color: rgb(255, 0, 0);
+    }
+
+         .contact{
+            background-color: rgb(250, 237, 49) ;
+            text-align: center;
+            justify-content: center;
+            display: flex;
+            align-items: center; 
+            color: rgba(0, 0, 0, 0.76);
+        padding-top: 40px;
+        padding-bottom: 40px;
+        margin-top: 8%;
+         }
+
+         .book{
+ padding-right: 25px;
+    color: rgb(0, 0, 0);
+         }
+
+         .inst{
+            padding-right: 25px;
+            color: rgba(0, 0, 0);
+         }
+         .twit{
+            padding-right: 25px;
+            color: rgba(0, 0, 0);
+         }
+         .link{
+            padding-right: 25px;
+            color: rgba(0, 0, 0);
+         }
+         h{
+             font-size: 18px;
+             font-weight: 600;
+             color:rgba(0, 0, 0);
+         }
+
+
+
+       
+    
+
+

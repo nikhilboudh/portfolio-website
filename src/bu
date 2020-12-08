@@ -1,0 +1,1 @@
+<NavLink  to="/Home"><img src= {photo} alt="nikhil_logo"  style={{width:50}}/></NavLink>
